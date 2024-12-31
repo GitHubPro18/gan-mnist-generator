@@ -22,7 +22,7 @@ This project implements a Generative Adversarial Network (GAN) to generate MNIST
 ### Installation
 Install dependencies using pip:
 ```bash
-pip install torch torchvision pytorch-lightning numpy matplotlib
+pip install torch torchvision pytorch-lightning 
 ```
 
 ## Code Overview
