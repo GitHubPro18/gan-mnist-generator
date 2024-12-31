@@ -77,7 +77,7 @@ trainer.fit(model, dm)
 ## References
 - [PyTorch Documentation](https://pytorch.org/docs/)
 - [PyTorch Lightning Documentation](https://pytorch-lightning.readthedocs.io/)
-- [GAN Tutorial](https://arxiv.org/abs/1406.2661)
+
 
 
 
